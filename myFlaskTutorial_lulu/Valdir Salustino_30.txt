@@ -1,0 +1,12 @@
+Name: Valdir Salustino 
+Age: 30 
+
+Do you like cupcakes?
+yes
+
+How many eyes do you have?
+2
+
+Which fuit do you like best?
+banana
+
